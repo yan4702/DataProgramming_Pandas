@@ -6,6 +6,6 @@ This is mine school assignment using Jupyter notebook to perform:
 
 **Q2 is about to store cleaned data into new csv and database ORM with SQLite. After that, perform some simple SQL query to filter out the results.
 
-**Q3 is about to conduct visualization using matplotlib.pyplot library.
+**Q3 is about to perform simple data analyst and conduct visualization using matplotlib.pyplot library.
 
 
